@@ -1,0 +1,10 @@
+on most modern computers double precision floating point numbers are 
+stored using 64 bits of memory, or 8 bytes
+
+data frame : 2075259 rows, 9 columns
+
+memory required:
+2075259*9*8 bytes/numeric
+= 149418649 bytes / (2^20 bytes/MB)
+= 142.5 MB
+
